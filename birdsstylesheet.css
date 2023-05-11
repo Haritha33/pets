@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://t3.ftcdn.net/jpg/03/17/72/06/360_F_317720690_rrCyQX1YNHXVE39Npixwhil8WIdhAxrr.jpg");
+    background-size: cover;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap; 
+}
+.main_heading{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(33, 30, 30);
+    font-size: 40px;
+    margin: 0%;
+}
+.paragraph{
+    text-align: center;
+    font-size: 20px;
+}
+.image{
+    height: 40vh;
+    width: 30vw;
+    transition: all 0.1s;
+}
+img:hover{
+    transform: scale(1.1);
+}

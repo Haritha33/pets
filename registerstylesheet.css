@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://i1.wp.com/guitarandlace.com/wp-content/uploads/2021/01/2-1.jpg?ssl=1");
+    background-size: cover;
+}
+.main_heading{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(33, 30, 30);
+    font-size: 40px;
+    margin: 0%;
+}
+.paragraph{
+    text-align: center;
+    font-size: 20px;
+}
+.image{
+    height: 40vh;
+    width: 30vw;
+}
